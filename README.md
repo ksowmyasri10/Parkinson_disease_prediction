@@ -150,4 +150,4 @@ Interested in Python, machine learning, deep learning, and AI-based applications
 
 ## 📄 License
 
-A license can be added to this repository if the project is intended for public reuse. Choose a license only after confirming that you have permission to distribute the code and dataset.
+A license can be added to this repository if the project is intended for public reuse. Choose a license only after confirming that you have permission to distribute the code and dataset
